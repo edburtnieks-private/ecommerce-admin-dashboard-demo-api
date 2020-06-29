@@ -1,0 +1,44 @@
+{
+  "paymentTypes": [
+    {
+      "id": "1",
+      "name": "Payment Service Providers" 
+    },
+    {
+      "id": "2",
+      "name": "Local Banking Relationships" 
+    }
+  ],
+  "transactions": [
+    {
+      "id": "2",
+      "companyName": "Google Play",
+      "countAllTime": 475622,
+      "countThisYear": 475622,
+      "countThisMonth": 74631,
+      "countThisWeek": 8361,
+      "countToday": 235,
+      "paymentTypesId": "2"
+    },
+    {
+      "id": "1",
+      "companyName": "PayPal",
+      "countAllTime": 2762549,
+      "countThisYear": 2762549,
+      "countThisMonth": 217527,
+      "countThisWeek": 126854,
+      "countToday": 654,
+      "paymentTypesId": "2"
+    },
+    {
+      "id": "3",
+      "companyName": "Klarna",
+      "countAllTime": 76,
+      "countThisYear": 70,
+      "countThisMonth": 64,
+      "countThisWeek": 12,
+      "countToday": 0,
+      "paymentTypesId": "1"
+    }
+  ]
+}

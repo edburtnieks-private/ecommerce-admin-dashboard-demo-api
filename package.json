@@ -1,0 +1,12 @@
+{
+  "name": "ecommerce-admin-dashboard-demo-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Edgar Burtnieks <edburtnieks@gmail.com>",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}
